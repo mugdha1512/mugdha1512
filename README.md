@@ -30,4 +30,4 @@ Apart from coding, I enjoy exploring new technologies, solving challenging probl
 I'm also passionate about learning and staying updated with the latest trends in the tech industry.
 
 Get in Touch:
-📧 Feel free to reach out to me via email at mugdhadp2003@gmail.com.
+📧 Feel free to reach out to me via email at mugdhadp2003@gmail.com or mugdha.official1@gmail.com.
