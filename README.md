@@ -18,7 +18,6 @@ I have hands-on experience with a variety of programming languages and technolog
 💻 CSS
 💻 Bootstrap
 💻 PHP
-💻 JavaScript
 
 Experience:
 💼 Completed an industrial training in Web Development during my Diploma program.
