@@ -1,5 +1,5 @@
 About Me:
-Hello! 👋 I'm Mugdha Patil, a passionate Computer Engineering graduate student at Dr. D. Y. Patil College of Engineering and Innovation, Varale. 
+Hello! 👋 I'm Mugdha Patil, Completed Engineering in Computer Science at Dr. D. Y. Patil College of Engineering and Innovation, Varale. 
 I have a keen interest in software development and web technologies.
 
 Education:
