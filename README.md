@@ -1,10 +1,10 @@
 About Me:
-Hello! 👋 I'm Mugdha Patil, a passionate Computer Engineering student currently pursuing my fourth year at Dr. D. Y. Patil College of Engineering and Innovation, Varale. 
+Hello! 👋 I'm Mugdha Patil, a passionate Computer Engineering graduate student at Dr. D. Y. Patil College of Engineering and Innovation, Varale. 
 I have a keen interest in software development and web technologies.
 
 Education:
-🎓 Currently pursuing my Bachelor's degree in Computer Engineering from Savitribai Phule Pune University (SPPU).
-🏫 Completed my Diploma in Computer Engineering from K K Wagh Polytechnic, Nashik with distinction.
+🎓 Completed my Bachelor's degree in Computer Engineering from Savitribai Phule Pune University (SPPU).
+🏫 Completed my Diploma in Computer Technology from K K Wagh Polytechnic, Nashik with distinction.
 
 Skills:
 I have hands-on experience with a variety of programming languages and technologies, including:
