@@ -1,6 +1,7 @@
 About Me:
-Hello! 👋 I'm Mugdha Patil, Completed Engineering in Computer Science at Dr. D. Y. Patil College of Engineering and Innovation, Varale. 
-I have a keen interest in software development, web technologies, Machine Larning and Data Science.
+Hello! 👋 I'm Mugdha Patil, a Computer Science Engineering graduate passionate about leveraging technology to build innovative and efficient solutions. 
+My areas of interest include Software Development, Web Technologies, Machine Learning, and Data Science. 
+I enjoy exploring new tools, frameworks, and concepts that help bridge creativity with real-world applications.
 
 Education:
 🎓 Completed my Bachelor's degree in Computer Engineering from Savitribai Phule Pune University (SPPU).
