@@ -22,15 +22,20 @@ I have hands-on experience with a variety of programming languages and technolog
 💻 Spring
 💻 Spring Boot
 💻 MERN 
+🧠 Machine Learning
+🔍 Data Science
 
 Experience:
 💼 Completed an industrial training in Web Development during my Diploma program.
 💼 Successfully completed an internship in Web Development from December 2023 to January 2024.
-💼 Currently attending a Java course to further enhance my skills and knowledge in programming.
+💼 Enhancing my skills and knowledge in programming at Archer Infotech as Full Stack Java developer Intern.
 
 Interests:
 Apart from coding, I enjoy exploring new technologies, solving challenging problems, and contributing to open-source projects. 
 I'm also passionate about learning and staying updated with the latest trends in the tech industry.
+Currently Exploring and Learning Machine Learning and Data Science.
 
 Get in Touch:
-📧 Feel free to reach out to me via email at mugdhadp2003@gmail.com or mugdha.official1@gmail.com.
+📧 Feel free to reach out to me via email at mugdha.official1@gmail.com or mugdhadp2003@gmail.com.
+
+For More Updates Connect with me on Linkdln https://www.linkedin.com/in/mugdha-patil-92b931212
