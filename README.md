@@ -29,7 +29,7 @@ I have hands-on experience with a variety of programming languages and technolog
 Experience:
 💼 Completed an industrial training in Web Development during my Diploma program.
 💼 Successfully completed an internship in Web Development from December 2023 to January 2024.
-💼 Enhancing my skills and knowledge in programming at Archer Infotech as Full Stack Java developer Intern.
+💼 Enhanced my skills and knowledge in programming at Archer Infotech as Full Stack Java developer Intern.
 
 Interests:
 Apart from coding, I enjoy exploring new technologies, solving challenging problems, and contributing to open-source projects. 
